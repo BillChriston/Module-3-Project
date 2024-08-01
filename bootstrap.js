@@ -1476,7 +1476,8 @@
    * --------------------------------------------------------------------------
    */
 
-
+<script data-navigate-once src="bootstrap.js"></script>
+                             
   /**
    * Constants
    */
